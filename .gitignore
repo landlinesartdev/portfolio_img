@@ -1,7 +1,7 @@
 
 
-*.jpeg
-*.jpg
+#*.jpeg
+#*.jpg
 *.mp4
 *.mov
 *.mp3
